@@ -1,0 +1,2 @@
+# tarea4_2
+El programa debe de escribir para que lea varias temperaturas en grados Celsius e imprima el equivalente en grados Fahrenheit. El programa termina cuando se introduce una temperatura de 999. Se crea un ciclo donde se indica que introduzca una temperatura en Celsius y luego se crea una condicional que indica que debe ser menor que 999 para repetir, y luego otra condicional para indicar que si es igual a 999, será invalido.
